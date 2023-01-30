@@ -1,0 +1,19 @@
+@import url('https://fonts.googleleapis.com/css?family=Ubuntu');
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'ubuntu', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+.bg {
+    background-image: url("../images/istockphoto-481024588-612x612");
+}
